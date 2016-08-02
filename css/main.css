@@ -1,25 +1,39 @@
-
-.first {
-	background-color: #ccc;
-	width: 200px;
-	height: 250px;
-	border: 2px solid black;
-	text-align: center;
-	display: inline-block;
+h2 {
+   font-family: 'Raleway', sans-serif;
+   font-size: 20px;
+   color: #6E6E6E;
 }
+h6 {
+	font-family: 'Indie Flower', cursive;
+}
+
+p { 
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+ }
 
 span {
 	padding: 10px;
+}
+.first {
+	background-color: #FAFAFA;
+	width: 200px;
+	height: 280px;
+	border: 2px solid black;
+	text-align: center;
+	display: inline-block;
 }
 .icon-paperplane {
 	font-family: untitled-font-1;
 	font-size: 40px;
 	position: relative;
     top: 10px;
+    color: #6E6E6E;
 }
 .second{
+	background-color: #FAFAFA;
     width: 200px;
-	height: 250px;
+	height: 280px;
 	text-align: center;
 	border: 2px solid black;
 	display: inline-block;
@@ -29,10 +43,12 @@ span {
 	font-size: 40px;
 	position: relative;
     top: 10px;
+    color: #6E6E6E;
 }
 .third {
+	background-color: #FAFAFA;
     width: 200px;
-	height: 250px;
+	height: 280px;
 	text-align: center;
 	border: 2px solid black;
 	display: inline-block;
@@ -42,10 +58,12 @@ span {
 	font-size: 40px;
 	position: relative;
     top: 10px;
+    color: #6E6E6E;
 }
 .fourth {
+	background-color: #FAFAFA;
 	width: 200px;
-	height: 250px;
+	height: 280px;
 	text-align: center;
 	border: 2px solid black;
 	display: inline-block;
@@ -55,11 +73,13 @@ span {
 	font-size: 40px;
 	position: relative;
     top: 10px;
+    color: #6E6E6E;
  } 
 
 .fifth{
+	background-color: #FAFAFA;
 	width: 200px;
-	height: 250px;
+	height: 280px;
 	text-align: center;
 	border: 2px solid black;
 	display: inline-block;
@@ -69,4 +89,5 @@ span {
 	font-size: 40px;
 	position: relative;
     top: 10px;
+    color: #6E6E6E;
 }
