@@ -38,6 +38,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-paperplane:before {
+.icon-cup:before {
+  content: "\61";
+}
+.icon-diamond:before {
   content: "\62";
+}
+.icon-heart:before {
+  content: "\63";
+}
+.icon-food:before {
+  content: "\64";
+}
+.icon-paperplane:before {
+  content: "\65";
 }

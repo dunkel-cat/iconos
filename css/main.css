@@ -1,34 +1,72 @@
 
 .first {
+	background-color: #ccc;
 	width: 200px;
 	height: 250px;
 	border: 2px solid black;
 	text-align: center;
 	display: inline-block;
-
 }
-/*
+
+span {
+	padding: 10px;
+}
+.icon-paperplane {
+	font-family: untitled-font-1;
+	font-size: 40px;
+	position: relative;
+    top: 10px;
+}
 .second{
-    width: 50px;
-	height: 80px;
+    width: 200px;
+	height: 250px;
+	text-align: center;
 	border: 2px solid black;
 	display: inline-block;
+}
+.icon-diamond {
+	font-family: untitled-font-1;
+	font-size: 40px;
+	position: relative;
+    top: 10px;
 }
 .third {
-    width: 50px;
-	height: 80px;
+    width: 200px;
+	height: 250px;
+	text-align: center;
 	border: 2px solid black;
 	display: inline-block;
+}
+.icon-heart {
+	font-family: untitled-font-1;
+	font-size: 40px;
+	position: relative;
+    top: 10px;
 }
 .fourth {
-    width: 50px;
-	height: 80px;
+	width: 200px;
+	height: 250px;
+	text-align: center;
 	border: 2px solid black;
 	display: inline-block;
 }
+ .icon-cup {
+ 	font-family: untitled-font-1;
+	font-size: 40px;
+	position: relative;
+    top: 10px;
+ } 
+
 .fifth{
-    width: 50px;
-	height: 80px;
+	width: 200px;
+	height: 250px;
+	text-align: center;
 	border: 2px solid black;
 	display: inline-block;
-} */
+}
+.icon-food{
+	font-family: untitled-font-1;
+	font-size: 40px;
+	position: relative;
+    top: 10px;
+}
