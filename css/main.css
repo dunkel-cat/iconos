@@ -22,7 +22,7 @@ span {
 	text-align: center;
 	display: inline-block;
 }
-.icon-paperplane {
+.ico {
 	font-family: untitled-font-1;
 	font-size: 40px;
 	position: relative;
@@ -30,36 +30,8 @@ span {
     color: #6E6E6E;
 }
 
-.icon-diamond {
-	font-family: untitled-font-1;
-	font-size: 40px;
-	position: relative;
-    top: 10px;
-    color: #6E6E6E;
 
-}
-.icon-heart {
-	font-family: untitled-font-1;
-	font-size: 40px;
-	position: relative;
-    top: 10px;
-    color: #6E6E6E;
-}
- .icon-cup {
- 	font-family: untitled-font-1;
-	font-size: 40px;
-	position: relative;
-    top: 10px;
-    color: #6E6E6E;
 
-}
-.icon-food{
-	font-family: untitled-font-1;
-	font-size: 40px;
-	position: relative;
-    top: 10px;
-    color: #6E6E6E;
-}
 /*hover + transition */
 a {
 	margin: 5px;
