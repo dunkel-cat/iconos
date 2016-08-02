@@ -15,7 +15,7 @@ p {
 span {
 	padding: 10px;
 }
-.first {
+.mastercaja{
 	background-color: #FAFAFA;
 	width: 200px;
 	height: 280px;
@@ -29,26 +29,14 @@ span {
     top: 10px;
     color: #6E6E6E;
 }
-.second{
-	background-color: #FAFAFA;
-    width: 200px;
-	height: 280px;
-	text-align: center;
-	display: inline-block;
-}
+
 .icon-diamond {
 	font-family: untitled-font-1;
 	font-size: 40px;
 	position: relative;
     top: 10px;
     color: #6E6E6E;
-}
-.third {
-	background-color: #FAFAFA;
-    width: 200px;
-	height: 280px;
-	text-align: center;
-	display: inline-block;
+
 }
 .icon-heart {
 	font-family: untitled-font-1;
@@ -57,27 +45,13 @@ span {
     top: 10px;
     color: #6E6E6E;
 }
-.fourth {
-	background-color: #FAFAFA;
-	width: 200px;
-	height: 280px;
-	text-align: center;
-	display: inline-block;
-}
  .icon-cup {
  	font-family: untitled-font-1;
 	font-size: 40px;
 	position: relative;
     top: 10px;
     color: #6E6E6E;
- } 
 
-.fifth{
-	background-color: #FAFAFA;
-	width: 200px;
-	height: 280px;
-	text-align: center;
-	display: inline-block;
 }
 .icon-food{
 	font-family: untitled-font-1;
@@ -86,13 +60,13 @@ span {
     top: 10px;
     color: #6E6E6E;
 }
-/*hover */
-div {
+/*hover + transition */
+a {
 	margin: 5px;
 	transition: all .2s ease-in-out;
 }
 
-div:hover {
+a:hover {
 	transform: scale(1.1);
 	background-color: white;
 	color: #2E9AFE;
